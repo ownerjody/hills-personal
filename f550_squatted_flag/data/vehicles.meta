@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+  <InitDatas>
+    <Item>
+      <modelName>f550squat</modelName>
+      <txdName>f550squat</txdName>
+      <handlingId>F550SQUAT</handlingId>
+      <gameName>F550SQUAT</gameName>
+      <vehicleMakeName>VAPID</vehicleMakeName>
+      <expressionDictName>null</expressionDictName>
+      <expressionName>null</expressionName>
+      <animConvRoofDictName>null</animConvRoofDictName>
+      <animConvRoofName>null</animConvRoofName>
+      <animConvRoofWindowsAffected>null</animConvRoofWindowsAffected>
+      <ptfxAssetName>null</ptfxAssetName>
+      <audioNameHash>MONSTER</audioNameHash>
+      <layout>LAYOUT_STANDARD</layout>
+      <coverBoundOffsets>F550_COVER_OFFSET_INFO</coverBoundOffsets>
+      <explosionInfo>EXPLOSION_INFO_TRUCK</explosionInfo>
+      <scenarioLayout />
+      <cameraName>FOLLOW_TRUCK</cameraName>
+      <aimCameraName>CAMERA_INVALID</aimCameraName>
+      <bonnetCameraName>VEHICLE_BONNET_CAMERA_FELTZER</bonnetCameraName>
+      <povCameraName>DEFAULT_POV_CAMERA</povCameraName>
+      <FirstPersonDriveByIKOffset x="0.000000" y="-0.020000" z="-0.020000" />
+      <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.020000" z="-0.020000" />
+      <FirstPersonProjectileDriveByIKOffset x="0.000000" y="-0.020000" z="-0.020000" />
+      <FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonMobilePhoneOffset x="0.130000" y="0.220000" z="0.440000" />
+      <FirstPersonPassengerMobilePhoneOffset x="0.130000" y="0.220000" z="0.440000" />
+      <PovCameraOffset x="0.000000" y="-0.030000" z="0.620000" />
+      <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
+      <PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
+      <vfxInfoName>VFXVEHICLEINFO_TRUCK</vfxInfoName>
+      <shouldUseCinematicViewMode value="true" />
+      <shouldCameraTransitionOnClimbUpDown value="false" />
+      <shouldCameraIgnoreExiting value="false" />
+      <AllowPretendOccupants value="true" />
+      <AllowJoyriding value="true" />
+      <AllowSundayDriving value="true" />
+      <TandemSeats value="false" />
+      <sitInBoat value="false" />
+      <fakeBoatSeat value="false" />
+      <steamWheelOffset value="0" />
+      <pedModelSet>PMSET_NULL</pedModelSet>
+      <animGroup>ANIM_GROUP_NULL</animGroup>
+      <visualSettings>0</visualSettings>
+      <hiLightMinIntensity value="0.0" />
+      <hiLightMaxIntensity value="1.0" />
+      <liquidVolumePercentToBurst value="0.0" />
+      <flags>FLAG_HAS_LIVERY FLAG_EXTRAS_STRONG</flags>
+      <type>VEHICLE_TYPE_CAR</type>
+      <plateType>VPT_FRONT_AND_REAR_PLATES</plateType>
+      <dashboardType>VDT_DEFAULT</dashboardType>
+      <vehicleClass>VC_OFF_ROAD</vehicleClass>
+      <wheelType>VWT_TRUCK</wheelType>
+      <trailers />
+      <additionalTrailers />
+      <drivers>
+        <Item>
+          <driverName>S_M_M_TRUCKER_01</driverName>
+          <npcName>null</npcName>
+        </Item>
+      </drivers>
+      <extraIncludes />
+      <doorsWithCollisionWhenClosed />
+      <driveableDoors />
+      <bumpersNeedToCollideWithMap value="false" />
+      <needsRopeTexture value="false" />
+      <requiredExtras />
+      <rewards />
+      <cinematicPartCamera />
+      <NmBraceOverrideSet>TRUCK</NmBraceOverrideSet>
+      <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
+      <buoyancySphereSizeScale value="1.0" />
+      <pOverrideRagdollThreshold type="NULL" />
+      <firstPersonDrivebyData>
+        <Item>STD_TRUCK_FRONT_LEFT_MP</Item>
+      </firstPersonDrivebyData>
+    </Item>
+  </InitDatas>
+  <txdRelationships>
+    <Item>
+      <parent>vehicle_generic_mods</parent>
+      <child>f550squat</child>
+    </Item>
+  </txdRelationships>
+</CVehicleModelInfo__InitDataList>
