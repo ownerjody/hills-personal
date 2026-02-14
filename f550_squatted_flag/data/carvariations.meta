@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleVariationInfo__VariationData>
+  <variationData>
+    <Item>
+      <modelName>f550squat</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            27 27 27 27 27 27
+          </indices>
+          <liveries>
+            <Item value="0" />
+            <Item value="1" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_f550squat_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>VPT_FRONT_AND_REAR_PLATES</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleVariationInfo__VariationData>
