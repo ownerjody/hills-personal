@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleMetadataLayoutInfos>
+  <InitDatas>
+    <Item>
+      <layoutName>LAYOUT_STANDARD</layoutName>
+      <seats>
+        <Item>
+          <name>seat_dside_f</name>
+          <boneName>seat_dside_f</boneName>
+          <shuffleLink>seat_pside_f</shuffleLink>
+          <cameraOffset x="0.0" y="0.0" z="0.0" />
+        </Item>
+        <Item>
+          <name>seat_pside_f</name>
+          <boneName>seat_pside_f</boneName>
+          <shuffleLink>seat_dside_f</shuffleLink>
+          <cameraOffset x="0.0" y="0.0" z="0.0" />
+        </Item>
+      </seats>
+      <layoutFlags />
+    </Item>
+  </InitDatas>
+</CVehicleMetadataLayoutInfos>
